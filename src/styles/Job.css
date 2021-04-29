@@ -1,0 +1,23 @@
+.job-wrapper{
+    margin: 2em 1em;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    box-shadow: 2px 6px 15px #ccc;
+}
+.img{
+    height: 200px;
+    width: 100%;
+    object-fit: contain;
+}
+.job-wrapper h6{
+    color: rgb(50, 76, 83);
+    font-size: 1.2rem;
+    padding: 1em;
+    margin-top: 0.8em;
+}
+.job-wrapper p{
+    color:rgb(50, 76, 83);
+    padding-left: 1em;
+    padding-top: 0.4em;
+    text-align: left !important;
+}
